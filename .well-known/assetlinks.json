@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.widget.pal.livepic.photo.note.widgether",
+            "sha256_cert_fingerprints": [
+                "8D:5E:43:50:60:F4:34:CC:74:81:43:44:35:CB:84:36:BC:91:44:83"
+            ]
+        }
+    }
+]
